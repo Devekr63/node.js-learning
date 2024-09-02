@@ -1,0 +1,4 @@
+Step 1: npm init 
+Step 2: npm install express --save
+Step 3: npm install nodemon --save-dev
+Step 4: add custom scripts in package.json file - "start": "nodemon app.js"
